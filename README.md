@@ -9,7 +9,7 @@
 <h4 align="left">
 👋 I'm Mostafa from Egypt.<br>
 👨‍💻 I am currently a third-year engineering student.<br>
-⚡ In my all time learning and exploring new technologies to improve my skills.
+⚡ I'm always learning and exploring new technologies to improve my skills.
 </h4>
 
 ###
@@ -62,22 +62,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mostafashazly7&show_icons=true&theme=tokyonight" width="32%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafashazly7&layout=compact&theme=tokyonight" width="32%">
-<img src="https://streak-stats.demolab.com?user=mostafashazly7&theme=tokyonight" width="32%">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mostafashazly7&show_icons=true&theme=tokyonight&hide_border=true" width="32%" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mostafashazly7&layout=compact&theme=tokyonight&hide_border=true" width="32%" />
+
+<img src="https://streak-stats.demolab.com?user=mostafashazly7&theme=tokyonight&hide_border=true" width="32%" />
 
 </div>
-<!--
-**mostafagamer938-code/mostafagamer938-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
